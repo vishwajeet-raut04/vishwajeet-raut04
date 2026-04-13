@@ -1,26 +1,48 @@
-# Hi 👋 I'm Vishwajeet Raut
+<h1 align="center">Hi 👋, I'm Vishwajeet Raut</h1>
 
-🚀 Flutter Developer | Java | DevOps  
-🌱 Working on Smart Supply Chain System for Farmers  
-💡 Passionate about solving real-world problems  
+<p align="center">
+  🚀 Flutter Developer | Java | DevOps Enthusiast  
+</p>
 
----
-
-## 🔥 Projects
-- Smart Supply Chain System (AI + Flutter)
-- Online Crime Reporting Tool (Patent Filed)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Flutter+Developer;Java+Programmer;Building+Smart+Solutions;DevOps+Learner" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
-Java | Flutter | Firebase | React | AWS | Docker | Kubernetes  
+### 🌱 About Me
+- 🔭 Working on **Smart Supply Chain System for Farmers 🌾**  
+- 💡 Passionate about solving real-world problems  
+- ⚡ Learning DevOps & Cloud  
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwajeet-raut04&show_icons=true)
+### 🚀 Projects
+- 🌾 Smart Supply Chain System for Farmers  
+- 🚨 Online Crime Reporting Tool *(Patent Filed)*  
 
 ---
 
-## 📫 Contact Me
-📧 vishwajeetraut6@gmail.com
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,flutter,firebase,react,nodejs,aws,docker,kubernetes,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwajeet-raut04&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeet-raut04&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  📧 vishwajeetraut6@gmail.com  
+</p>
+
+---
+
+<p align="center">✨ Keep Building | Keep Growing 🚀</p>
